@@ -1,0 +1,15 @@
+#provider:hover {
+    transform: scale(1.1);
+    animation: providerHover 0.3s ease-in-out;
+    cursor: pointer;
+    align-items: center;
+}
+
+@keyframes providerHover {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.1);
+    }
+}

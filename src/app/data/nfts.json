@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bored Ape Yacht Club",
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"
+    },
+    {
+        "name": "CryptoPunks",
+        "address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"
+    },
+    {
+        "name": "Mutant Ape Yacht Club",
+        "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6"
+    },
+    {
+        "name": "Azuki",
+        "address": "0xed5af388653567af2f388e6224dc7c4b3241c544"
+    },
+    {
+        "name": "Otherdeed for Otherside",
+        "address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258"
+    }
+]
